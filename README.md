@@ -15,3 +15,6 @@ Parameters for make are:
 * stop
 * restart
 * status
+
+
+Note: To fit to service file, needs to be cloned in /home/pi/.
