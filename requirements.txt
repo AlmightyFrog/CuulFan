@@ -1,0 +1,2 @@
+RPi.GPIO
+git+https://github.com/nicmcd/vcgencmd.git

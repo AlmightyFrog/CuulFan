@@ -16,5 +16,7 @@ Parameters for make are:
 * restart
 * status
 
+Use following command to install dependencies global:
+$ sudo pip3 install -r requirements.txt 
 
 Note: To fit to service file, needs to be cloned in /home/pi/.
